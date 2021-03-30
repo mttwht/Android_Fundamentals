@@ -14,4 +14,5 @@ Phasellus luctus aliquet sapien, sit amet rhoncus tortor bibendum at. Ut id male
 Maecenas et neque eget metus consequat varius. Etiam non egestas ante, vitae egestas massa. Suspendisse potenti. Proin volutpat turpis eget volutpat pretium. Vivamus non diam non velit convallis posuere quis nec nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi molestie, dui sit amet elementum mattis, erat arcu ornare dolor, non lacinia leo sapien vel nunc.
     </string>
     <string name="avatar_image">Avatar image</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
 </resources>

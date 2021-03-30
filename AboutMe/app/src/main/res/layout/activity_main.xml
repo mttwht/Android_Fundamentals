@@ -22,8 +22,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
+        android:hint="@string/what_is_your_nickname"
         android:inputType="textPersonName"
-        android:text="Name" />
+        android:textAlignment="center"
+        android:textAppearance="@style/NameStyle" />
 
     <ImageView
         android:id="@+id/star_image"
